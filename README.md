@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hi 👋
 
+My major is software engineering.
+I have a strong passion for web front-end development. Constantly working to improve my development skills. 
+My tech stack is JavaScript, Vue2, Vue3, typescript, uniapp，echarts，element-ui，vant-ui
 <!--
 **2962821837/2962821837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
